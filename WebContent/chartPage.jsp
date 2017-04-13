@@ -28,30 +28,3 @@
     </script>
 </body>
 </html>
-<!-- 
-
-        		    var config = {
-        		            type: 'pie',
-        		            data: {
-        		                datasets: [{
-        		                    data: dataRec,
-        		                    backgroundColor: [
-        		                        window.chartColors.red,
-        		                        window.chartColors.orange,
-        		                        window.chartColors.yellow,
-        		                        window.chartColors.green,
-        		                        window.chartColors.blue,
-        		                    ],
-        		                    label: 'Dataset 1'
-        		                }],
-        		                labels: labelRec
-        		            },
-        		            options: {
-        		                responsive: true
-        		            }
-        		        };
-        		  
-        		  
-        		  console.log(config);
-
- -->
